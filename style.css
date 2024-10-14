@@ -9,7 +9,10 @@
 .search{
     width:650px;
 }
-
+.lang{
+    position: relative;
+    left: 15px;
+}
 .btn1{
     background-color:rgb(245, 173, 17);
 }
